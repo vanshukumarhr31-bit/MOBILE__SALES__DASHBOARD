@@ -34,11 +34,12 @@ The dashboard also includes slicers and filters for better interactivity and dee
 ```
 > Note: Original dataset was taken from an online Power BI Masterclass. The dataset was cleaned and transformed further in **Power Query**.
 ---
-## Dashboard Preview / Demo
+# Mobile Sales Dashboard (Power BI)
 
-A short screen recording of the dashboard interaction will be added here:
+![Mobile Sales Dashboard](https://github.com/vanshukumarhr31-bit/MOBILE__SALES__DASHBOARD/blob/main/PowerBi%20Dashboard.png?raw=true)
 
-`(Screen recording will be embedded soon…)`
+This project is a Mobile Sales Dashboard created using Power BI...
+
 ---
 ## Key Insights
 
