@@ -1,5 +1,3 @@
-# MOBILE__SALES__DASHBOARD
-Mobile Sales Dashboard built in Power BI using real sales data. Includes data cleaning in Power Query, data modeling, DAX measures, and interactive visualizations.
 # Mobile Sales Dashboard (Power BI)
 
 This project is a **Mobile Sales Dashboard** created using **Power BI** as part of a guided practice project. The goal of this dashboard is to analyze mobile phone sales data and derive key business insights through data modeling, transformations, and interactive visualizations.
